@@ -1,0 +1,1 @@
+import numpy as npmx = 5my = 3QMatrix = np.zeros((mx, my))for i in range(mx):    for j in range(my):        QMatrix[i][j] = -100        if QMatrix[i][j] is not 'a':            print("kong")print(QMatrix)
